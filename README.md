@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Dryden</h1>
 <h3 align="center">A passionate data scientist from Montréal, Canada</h3>
 
-- 🌱 I’m currently learning more about **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning more about **Data Analysis, Machine Learning and Deep Learning**
 
 - 📫 How to reach me **maria.dryden15@gmail.com**
 
